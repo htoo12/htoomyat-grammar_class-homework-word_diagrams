@@ -1,1 +1,1 @@
-# htoomyat-grammar_class-homework-word_diagrams
+# htoomyat/grammar_class/homework/word_diagrams
